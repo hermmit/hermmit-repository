@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\source\repos\dz1\Source.c(4,2): warning C4013: puts: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\dz1\Source.c(19,2): warning C4013: getchar: нет определения; предполагается "extern" с возвратом типа "int"
+  dz1.vcxproj -> C:\Users\User\source\repos\dz1\x64\Debug\dz1.exe
